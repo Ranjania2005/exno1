@@ -236,4 +236,5 @@ plt.show()
 ![Screenshot 2025-03-12 142355](https://github.com/user-attachments/assets/990cfa62-32a5-44a1-8277-ec4f68b63f57)
 
 # Result
-          Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
+
+Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
